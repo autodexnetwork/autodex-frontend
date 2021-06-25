@@ -12,6 +12,7 @@ import PageLoader from './components/PageLoader'
 import EasterEgg from './components/EasterEgg'
 import Pools from './views/Pools'
 import history from './routerHistory'
+import 'style.css'
 
 // Route-based code splitting
 // Only pool is included in the main bundle because of it's the most visited page
